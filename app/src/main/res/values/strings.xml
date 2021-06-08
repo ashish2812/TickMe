@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TickMe</string>
+
+    <string name="habit_description">Successful people are simply those with successful habits.</string>
+    <string name="bdays_description">Wish your loved ones on their special days, without any delays, and cheer them up.</string>
+    <string name="do_task_description">You’ve got to get up every morning with determination if you’re going to go to bed with satisfaction.</string>
+    <string name="free_time_desc">Definitely you\'ll have extra time in the end of the day to learn new skills.</string>
+    <string name="set_task_desc">The bad news is time flies. The good news is you’re the pilot. Set task and don\'t let your time fly.</string>
+    <string name="welcome">Welcome</string>
+    <string name="Sign_in">Sign In</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="have_account">Have an Account?</string>
+    <string name="verification_code_sent">Verification Code Sent!</string>
+    <string name="verify">Verify</string>
+    <string name="enter_code">"Please Enter the code sent on +919870686646"</string>
+    <string name="hey">Hey,</string>
+    <string name="home">Home</string>
+    <string name="calender">Calender</string>
+    <string name="Profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="upcoming_task">Upcoming Task</string>
+    <string name="today_task">Today Task</string>
+</resources>
